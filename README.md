@@ -1,4 +1,7 @@
-## Olá, eu sou Camila Endlich
+## Olá, eu sou Camila Endlich!
+<img src="https://github.com/Cacaendlich/cacaendlich/blob/main/download%20(2).gif" width="200" height="auto" alt="GIF">
+
+##
 
 <div>
   <a href="https://github.com/Cacaendlich">
@@ -12,8 +15,6 @@
   <img align="center" alt="Caca-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
   <img align="center" alt="Caca-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
 </div>
-
-![GIF](https://www.canva.com/design/DAGQxZOr708/HYja2-wZ-WIwq29_f_h8Sg/view?utm_content=DAGQxZOr708&utm_campaign=designshare&utm_medium=link&utm_source=editor)
     
 ##
 
@@ -25,12 +26,6 @@
 </div>
 
 ###
-
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/cacaendlich/YourUser/output/github-contribution-grid-snake-dark.svg">
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/cacaendlich/YourUser/output/github-contribution-grid-snake.svg">
-  <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/cacaendlich/YourUser/output/github-contribution-grid-snake.svg">
-</picture>
 
 - 🔭 Hoje estou estagiando como desenvolvedora Android.
 - 🌱 Estou estudando TDD e coroutines no Kotlin.
