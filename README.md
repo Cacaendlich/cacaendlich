@@ -1,4 +1,4 @@
-## Olá, eu sou Camila Endlich!
+## Olá Mundo! Meu nome é Camila Endlich, Bem-vindos!
 <img src="https://github.com/Cacaendlich/cacaendlich/blob/main/download%20(2).gif" width="200" height="auto" alt="GIF">
 <p>- 🔭 Hoje estou estagiando como desenvolvedora Android.</p>
 <p>- 🌱 No momento estou estudando coroutines no Kotlin.</p>
